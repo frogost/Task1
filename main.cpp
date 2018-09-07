@@ -3,10 +3,10 @@
 using namespace std;
 
 int main() {
-    int a  = 2;
-    cout << a*3 << endl;
-    cout << a/3. << endl;
-    cout << a+3 << endl;
-    cout << a-3;
+    char c = 125;
+    cout << c*3 << endl;
+    cout << c/3. << endl;
+    cout << c+3 << endl;
+    cout << c-3;
     return 0;
 }
